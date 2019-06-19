@@ -1,11 +1,16 @@
 _repo: Troian-sota-Muinaiskreikkalaisia-jumaluus-ja-sankaritarinoita_59762
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berg, Fridtjuv
     gutenberg_agent_id: '50615'
     url: http://www.gutenberg.org/2009/agents/50615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59762#Troian-sota-Muinaiskreikkalaisia-jumaluus-ja-sankaritarinoita
 gutenberg_issued: '2019-06-16'
 gutenberg_type: Text
 identifiers:
